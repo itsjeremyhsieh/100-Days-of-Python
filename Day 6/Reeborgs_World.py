@@ -1,4 +1,4 @@
-# Code for Reeborg's World
+# Code for Reeborg's World Maze
 def turn_around():
     turn_left()
     turn_left()
